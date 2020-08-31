@@ -226,4 +226,28 @@ h3.main-heading {
         margin: auto;
     }
 
+    .container-fluid {
+        padding: 2% 6%;
+    }
+
+    .main-heading {
+        font-weight: 700;
+        font-size: 2.5rem; 
+        line-height: 1.3;
+    }
+
+    #cta {
+        padding: 5% 5% 5%;
+    }
+    
+    h3.main-heading {
+        width: 80%;
+        margin: auto;
+    }
+
+    .testimonial-text, .pricing-head, .pricing-text {
+        font-weight: bold;
+        font-size: 2rem;
+        line-height: 1.3;
+    }
 }
